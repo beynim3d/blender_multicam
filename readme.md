@@ -3,6 +3,8 @@
 **Blender eklentisi**: Sahnedeki kameralar arasında kolayca geçiş yapmanı, yeni kameralar eklemeni ve silmeni sağlar.  
 Klavye kısayolları ile hızlı geçiş imkânı sunar.
 
+https://github.com/beynim3d/blender_multicam/blob/main/blender_multicam.mp4
+
 ---
 
 <img width="1920" height="996" alt="image" src="https://github.com/user-attachments/assets/3dbf208a-74de-4c74-aca7-6ecf2da2f26a" />
@@ -40,4 +42,5 @@ Klavye kısayolları ile hızlı geçiş imkânı sunar.
 ---
 
 Lisans: MIT License
+
 
